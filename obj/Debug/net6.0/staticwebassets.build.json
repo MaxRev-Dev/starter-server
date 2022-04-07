@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Zqd3EKFT6M3GVpvaGR/MiQBnntzniHkfOtJRFNKZ+Gg=",
+  "Source": "lametsy-server",
+  "BasePath": "_content/lametsy-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
